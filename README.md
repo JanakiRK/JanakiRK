@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 <h1 align="center">Hi 👋, I'm Janaki</h1>
 <h3 align="center">A software Engineer embarking the learning journey to knowledge</h3>
 
@@ -30,5 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janakirk&show_icons=true&locale=en" alt="janakirk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janakirk&" alt="janakirk" /></p>
-
--->
