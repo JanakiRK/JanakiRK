@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janakirk" alt="janakirk" /></a> </p>
 
-- 🔭 I’m currently working as [Software Engineer](JP Morgan and Chase)
+- 🔭 I’m currently working as [Senior Software Engineer](MasterCard)
 
-- 🌱 I’m currently learning **AWS Cloud and hopefully many others !**
+- 🌱 I’m currently learning **AI and ML and hopefully many others !**
 
 - 👨‍💻 All of my projects are available at [github.com/JanakiRK](github.com/JanakiRK)
 
